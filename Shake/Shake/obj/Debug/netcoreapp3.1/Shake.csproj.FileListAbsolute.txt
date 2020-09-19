@@ -1,0 +1,13 @@
+C:\Users\seva4\Desktop\SmartGit\bin\snake.git\Shake\Shake\bin\Debug\netcoreapp3.1\Shake.exe
+C:\Users\seva4\Desktop\SmartGit\bin\snake.git\Shake\Shake\bin\Debug\netcoreapp3.1\Shake.deps.json
+C:\Users\seva4\Desktop\SmartGit\bin\snake.git\Shake\Shake\bin\Debug\netcoreapp3.1\Shake.runtimeconfig.json
+C:\Users\seva4\Desktop\SmartGit\bin\snake.git\Shake\Shake\bin\Debug\netcoreapp3.1\Shake.runtimeconfig.dev.json
+C:\Users\seva4\Desktop\SmartGit\bin\snake.git\Shake\Shake\bin\Debug\netcoreapp3.1\Shake.dll
+C:\Users\seva4\Desktop\SmartGit\bin\snake.git\Shake\Shake\bin\Debug\netcoreapp3.1\Shake.pdb
+C:\Users\seva4\Desktop\SmartGit\bin\snake.git\Shake\Shake\obj\Debug\netcoreapp3.1\Shake.csprojAssemblyReference.cache
+C:\Users\seva4\Desktop\SmartGit\bin\snake.git\Shake\Shake\obj\Debug\netcoreapp3.1\Shake.AssemblyInfoInputs.cache
+C:\Users\seva4\Desktop\SmartGit\bin\snake.git\Shake\Shake\obj\Debug\netcoreapp3.1\Shake.AssemblyInfo.cs
+C:\Users\seva4\Desktop\SmartGit\bin\snake.git\Shake\Shake\obj\Debug\netcoreapp3.1\Shake.csproj.CoreCompileInputs.cache
+C:\Users\seva4\Desktop\SmartGit\bin\snake.git\Shake\Shake\obj\Debug\netcoreapp3.1\Shake.dll
+C:\Users\seva4\Desktop\SmartGit\bin\snake.git\Shake\Shake\obj\Debug\netcoreapp3.1\Shake.pdb
+C:\Users\seva4\Desktop\SmartGit\bin\snake.git\Shake\Shake\obj\Debug\netcoreapp3.1\Shake.genruntimeconfig.cache
